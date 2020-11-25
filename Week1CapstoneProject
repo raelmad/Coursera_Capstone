@@ -12,7 +12,13 @@ As for the Spanish community, according to the figures provided by the Spanish C
 
 Spain is synonymous with many words: history, culture, fiesta and gastronomy. Spanish food is one of the most valued. The ratings received from diners all over the world exceed the notable ones, with figures that do not go below 4 out of 5 in any case, according to the latest study recently made public by the TripAdvisor platform.
 
-That is why our company decided to carry out a study to investigate in which district and neighbourhood of New York City it would be most advisable to open a new Spanish food restaurant. We want to see how well the food is accepted in relation to Tripadvisor's ratings, or in which neighbourhood there are more Spanish food restaurants to open. 
+
+In collaboration with the Ministry of Foreign Affairs and business organizations in the Spanish restaurant sector. Due to the success of Spanish food, several major national chains have asked about the possibility of opening restaurants in the Big Apple. 
+These are small and medium format restaurants where they serve from fast food (tapas) to good dishes from different Spanish regions.
+For this reason, we want to investigate in which areas of the city there are Spanish restaurants, which is their qualification in order to make a first analysis of whether they could be profitable or not to open new restaurants.
+
+That is why our company decided to carry out a study to investigate in which district and neighbourhood of New York City it would be most advisable to open a new Spanish food restaurant. 
+We want to see how well the food is accepted in relation to Tripadvisor's ratings, or in which neighbourhood there are more Spanish food restaurants to open. 
 The concept of the restaurant could be anything from fast food to good food, but first we want to know all these details and answer any questions
 
 Which neighbourhood has the most Spanish food restaurants?
@@ -23,8 +29,17 @@ What is the best Spanish food restaurant in New York City?
 
 Data :
 
-1) Data from New York , where we can obtain both the list of districts and the latitude or longitude: 
-Source: https://cocl.us/new_york_dataset 
+1) Data from New York , where we can obtain both the list of districts and the latitude or longitude. 
+With this data we will be able to analyse which districts and neighbourhoods exist in the city, locate them and start analysing the restaurants located in them 
+Source: https://cocl.us/new_york_dataset . 
 
-2) Spanish restaurants in the neighbourhoods : To be able to locate the Spanish restaurants in New York by neighbourhood and the opinions about them. Source:  Fousquare API Description .
+2) Spanish restaurants in the neighbourhoods:
+Thanks to the information provided by Foursquare we will be able to obtain restaurant ratings and opinions. 
+This is an excellent way to find out how Spanish food is rated in New York City, and then analyze what kind of food each restaurant makes in subsequent reports, and know whether to create opportunities with new menu items, or instead, reformulate already successful food. 
+Which will be the best restaurant in NY for paella? 
+Or which will have the best omelette? 
+First let's find out which are the best rated, so that we can move on to further reports. 
+
+
+Source:  Fousquare API Description .
 
