@@ -1,0 +1,30 @@
+Introduction
+
+New York, the city of dreams, of music, of cultural mix, of races, of opportunities for people and for companies. A city that is home to places as emblematic as the United Nations, where the different races, languages and thoughts of the entire planet are reflected.
+
+A city where within its racial diversity there is an important Latino and Hispanic community. According to a recent report published by the New York City Council, Dominicans are the largest immigrant community, followed by Chinese and in third place by Mexicans.
+
+Information from New York City Council states that in 1970 the percentage of foreign population in the city was 18%. Today this percentage has risen to 37%. If we look at the figures, the estimated population of New York this year is 8,175,000, of which 3,024,000 are foreigners.
+
+Of this foreign population, 380,000 are Dominican (12.57%); 350,200 are Chinese (11.58%) and 186,300 are Mexican (6.16%). Jamaicans are in fourth place with 169,200 (5,602 %) and Guyanese with 139,900 (4.63 %).
+
+As for the Spanish community, according to the figures provided by the Spanish Consulates General in the United States, the total number of Spaniards registered in January 2020 is 180,625, compared to 170,971 in 2019, of whom 42,930 are from Spain.
+
+Spain is synonymous with many words: history, culture, fiesta and gastronomy. Spanish food is one of the most valued. The ratings received from diners all over the world exceed the notable ones, with figures that do not go below 4 out of 5 in any case, according to the latest study recently made public by the TripAdvisor platform.
+
+That is why our company decided to carry out a study to investigate in which district and neighbourhood of New York City it would be most advisable to open a new Spanish food restaurant. We want to see how well the food is accepted in relation to Tripadvisor's ratings, or in which neighbourhood there are more Spanish food restaurants to open. 
+The concept of the restaurant could be anything from fast food to good food, but first we want to know all these details and answer any questions
+
+Which neighbourhood has the most Spanish food restaurants?
+In which district are there more Spanish food restaurants?
+What is the best Spanish food restaurant in New York City?
+
+
+
+Data :
+
+1) Data from New York , where we can obtain both the list of districts and the latitude or longitude: 
+Source: https://cocl.us/new_york_dataset 
+
+2) Spanish restaurants in the neighbourhoods : To be able to locate the Spanish restaurants in New York by neighbourhood and the opinions about them. Source:  Fousquare API Description .
+
